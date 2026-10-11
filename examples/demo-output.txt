@@ -1,0 +1,26 @@
+{
+  "first_run": {
+    "accepted": 4,
+    "duplicate": 1,
+    "rejected": 1
+  },
+  "replay": {
+    "accepted": 0,
+    "duplicate": 6,
+    "rejected": 0
+  },
+  "mart": [
+    {
+      "day": "2026-01-02",
+      "currency": "INR",
+      "events": 1,
+      "net_amount_minor": 50000
+    },
+    {
+      "day": "2026-01-02",
+      "currency": "USD",
+      "events": 3,
+      "net_amount_minor": 18000
+    }
+  ]
+}

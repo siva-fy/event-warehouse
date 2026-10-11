@@ -1,0 +1,6 @@
+{"event_id":"p1","customer_id":"c1","occurred_at":"2026-01-02T10:00:00Z","currency":"USD","kind":"payment","amount_minor":12000}
+{"event_id":"p2","customer_id":"c2","occurred_at":"2026-01-02T11:00:00Z","currency":"USD","kind":"payment","amount_minor":8000}
+{"event_id":"r1","customer_id":"c1","occurred_at":"2026-01-02T12:00:00Z","currency":"USD","kind":"refund","amount_minor":2000}
+{"event_id":"p3","customer_id":"c3","occurred_at":"2026-01-02T14:00:00+05:30","currency":"INR","kind":"payment","amount_minor":50000}
+{"event_id":"p1","customer_id":"c1","occurred_at":"2026-01-02T10:00:00Z","currency":"USD","kind":"payment","amount_minor":12000}
+{"event_id":"bad","customer_id":"c1","occurred_at":"2026-01-02T10:00:00Z","currency":"USD","kind":"payment","amount_minor":-1}
